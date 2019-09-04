@@ -1,0 +1,24 @@
+{
+  "name": "tool-for-testing",
+  "version": "1.0.0",
+  "description": "Tool for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sustainablility/tool-for-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sustainablility/tool-for-testing/issues"
+  },
+  "homepage": "https://github.com/sustainablility/tool-for-testing#readme",
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
